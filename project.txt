@@ -1,1 +1,1 @@
-view
+Hell all ,this is a test file for googlecode .as you know ,i have't uploaded any code to google using mercurial yet ,and the study curve of mercurial and tortoisehg   is't smooth..so hard.. 
